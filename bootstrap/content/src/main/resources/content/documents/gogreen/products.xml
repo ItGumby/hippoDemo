@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="products">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippostd:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+    <sv:value>hippotranslation:translated</sv:value>
+    <sv:value>mix:versionable</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>209758d3-8454-440b-831c-2386d3981c3f</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+    <sv:value>new-translated-folder</sv:value>
+    <sv:value>new-document</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:id" sv:type="String">
+    <sv:value>c7853de4-7a68-4cf4-8461-d791bf546d15</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippotranslation:locale" sv:type="String">
+    <sv:value>en</sv:value>
+  </sv:property>
+  <sv:node sv:name="solar-centurian---outdoor-security-light">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:referenceable</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>a7b23ba4-7655-4fd7-b85a-a16e832decf6</sv:value>
+    </sv:property>
+    <sv:node sv:name="solar-centurian---outdoor-security-light">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>a3180bb0-9bfe-4617-9c5d-34739cb5548c</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Light up your night with a solar powered, motion detected outdoor security light!</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>74.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Solar Centurian - Outdoor Security Light</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/solar-centurian---outdoor-security-light/solar-centurian---outdoor-security-light[3]</sv:value>
+        <sv:value>products/solar-centurian---outdoor-security-light/solar-centurian---outdoor-security-light[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:35:29.704-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:35:29.761-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>a696327b-8b92-4a5e-9c21-ae613f3bd530</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p style="text-align:start"&gt;This solar powered light is a bright (over 600 lumen) Halogen Security Light that installs easily where utility wiring is impractical or expensive. A patented passive infrared motion detector is able to detect activity up to 23m/75 feet away controls the light. When activated, the Solar Centurion throws a flood light into the target area for up to 3 minutes or as long as there is movement in the area.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;It is perfect for security lighting or convenience lighting in your yard, at your garage, around your garage, or wherever security lighting is required at night!&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;The light is replaceable at any lighting or hardware store (Sylvania 1995/ERK miniature Halogen Lamp).&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;© Green Home, Inc.&lt;br /&gt;
+&lt;a href="http://www.greenhome.com/products/yard_and_garden/outdoor_lighting/109508/" style="box-sizing: border-box; color: rgb(75, 75, 75); text-decoration: none; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"&gt;http://www.greenhome.com/products/yard_and_garden/outdoor_lighting/109508/&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>e74ec9d0-acbd-43d3-899b-cdef70e7f9a1</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>Solar Centurian - Outdoor Security Light</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="solar-centurian---outdoor-security-light">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>9fc1800f-3f54-4b0c-a72d-c1d7be98156f</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Light up your night with a solar powered, motion detected outdoor security light!</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>74.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Solar Centurian - Outdoor Security Light</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/solar-centurian---outdoor-security-light/solar-centurian---outdoor-security-light[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:35:29.704-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:36:05.715-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>a696327b-8b92-4a5e-9c21-ae613f3bd530</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p style="text-align:start"&gt;This solar powered light is a bright (over 600 lumen) Halogen Security Light that installs easily where utility wiring is impractical or expensive. A patented passive infrared motion detector is able to detect activity up to 23m/75 feet away controls the light. When activated, the Solar Centurion throws a flood light into the target area for up to 3 minutes or as long as there is movement in the area.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;It is perfect for security lighting or convenience lighting in your yard, at your garage, around your garage, or wherever security lighting is required at night!&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;The light is replaceable at any lighting or hardware store (Sylvania 1995/ERK miniature Halogen Lamp).&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;© Green Home, Inc.&lt;br /&gt;
+&lt;a href="http://www.greenhome.com/products/yard_and_garden/outdoor_lighting/109508/" style="box-sizing: border-box; color: rgb(75, 75, 75); text-decoration: none; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"&gt;http://www.greenhome.com/products/yard_and_garden/outdoor_lighting/109508/&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>e74ec9d0-acbd-43d3-899b-cdef70e7f9a1</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="solar-centurian---outdoor-security-light">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>20ec7bf3-f72d-42ac-8674-a008026cfc1f</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Light up your night with a solar powered, motion detected outdoor security light!</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>74.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Solar Centurian - Outdoor Security Light</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/solar-centurian---outdoor-security-light/solar-centurian---outdoor-security-light[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:35:29.704-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:36:05.715-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:36:07.299-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>a696327b-8b92-4a5e-9c21-ae613f3bd530</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p style="text-align:start"&gt;This solar powered light is a bright (over 600 lumen) Halogen Security Light that installs easily where utility wiring is impractical or expensive. A patented passive infrared motion detector is able to detect activity up to 23m/75 feet away controls the light. When activated, the Solar Centurion throws a flood light into the target area for up to 3 minutes or as long as there is movement in the area.&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;It is perfect for security lighting or convenience lighting in your yard, at your garage, around your garage, or wherever security lighting is required at night!&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;The light is replaceable at any lighting or hardware store (Sylvania 1995/ERK miniature Halogen Lamp).&lt;/p&gt;
+
+&lt;p style="text-align:start"&gt;© Green Home, Inc.&lt;br /&gt;
+&lt;a href="http://www.greenhome.com/products/yard_and_garden/outdoor_lighting/109508/" style="box-sizing: border-box; color: rgb(75, 75, 75); text-decoration: none; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"&gt;http://www.greenhome.com/products/yard_and_garden/outdoor_lighting/109508/&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>e74ec9d0-acbd-43d3-899b-cdef70e7f9a1</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="lifeproof-nuud-ipad-air-case">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:referenceable</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>c5105f26-a19d-4a19-8655-a4e33f6ed099</sv:value>
+    </sv:property>
+    <sv:node sv:name="lifeproof-nuud-ipad-air-case">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>8747b484-9937-40b1-99bf-d5a523c845db</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Get full protection for your phone in any wet, dirty or damp setting.The nuud case armours your iPad Air without putting anything between your fingertips and the touchscreen. An optical glass lens lets you see and use the screen with crystal clarity.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>129.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Lifeproof nüüd IPad Air Case</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/lifeproof-nuud-ipad-air-case/lifeproof-nuud-ipad-air-case[2]</sv:value>
+        <sv:value>products/lifeproof-nuud-ipad-air-case/lifeproof-nuud-ipad-air-case[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:36:19.200-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:36:19.259-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>8bbe4072-2e0b-4f26-ace4-dee00716f986</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;ul&gt;
+ &lt;li&gt;Waterproof, fully submersible to 2 metres for up to 1 hour.&lt;/li&gt;
+ &lt;li&gt;Shockproof, survives drops from 2 metres.&lt;/li&gt;
+ &lt;li&gt;Full access to touchscreen and all buttons, ports and controls.&lt;/li&gt;
+ &lt;li&gt;Maximum sound output and clarity.&lt;/li&gt;
+ &lt;li&gt;Anti-reflective optical-glass camera lens.&lt;/li&gt;
+ &lt;li&gt;Dimensions are 261.6 x 188 x 17.8mm.&lt;/li&gt;
+ &lt;li&gt;The LifeProof warranty and MEC&amp;apos;s Rocksolid Guarantee cover this case itself. Neither guarantee covers the contents you put inside the case.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="text-align:start"&gt;© Mountain Equipment Co-operative&lt;br /&gt;
+&lt;a href="http://www.mec.ca/product/5038-716/lifeproof-nuud-ipad-air-case/?f=10+50007+50023" style="box-sizing: border-box; color: rgb(75, 75, 75); text-decoration: none; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"&gt;http://www.mec.ca/product/5038-716/lifeproof-nuud-ipad-air-case/?f=10+50007+50023&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>a9d3a02d-2013-492b-83b0-949b090177a1</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>Lifeproof nüüd IPad Air Case</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="lifeproof-nuud-ipad-air-case">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>11c2451d-0309-4e1f-8740-4b1e7d652051</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Get full protection for your phone in any wet, dirty or damp setting.The nuud case armours your iPad Air without putting anything between your fingertips and the touchscreen. An optical glass lens lets you see and use the screen with crystal clarity.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>129.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Lifeproof nüüd IPad Air Case</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/lifeproof-nuud-ipad-air-case/lifeproof-nuud-ipad-air-case[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:36:19.200-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:37:09.491-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>8bbe4072-2e0b-4f26-ace4-dee00716f986</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;ul&gt;
+ &lt;li&gt;Waterproof, fully submersible to 2 metres for up to 1 hour.&lt;/li&gt;
+ &lt;li&gt;Shockproof, survives drops from 2 metres.&lt;/li&gt;
+ &lt;li&gt;Full access to touchscreen and all buttons, ports and controls.&lt;/li&gt;
+ &lt;li&gt;Maximum sound output and clarity.&lt;/li&gt;
+ &lt;li&gt;Anti-reflective optical-glass camera lens.&lt;/li&gt;
+ &lt;li&gt;Dimensions are 261.6 x 188 x 17.8mm.&lt;/li&gt;
+ &lt;li&gt;The LifeProof warranty and MEC&amp;apos;s Rocksolid Guarantee cover this case itself. Neither guarantee covers the contents you put inside the case.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="text-align:start"&gt;© Mountain Equipment Co-operative&lt;br /&gt;
+&lt;a href="http://www.mec.ca/product/5038-716/lifeproof-nuud-ipad-air-case/?f=10+50007+50023" style="box-sizing: border-box; color: rgb(75, 75, 75); text-decoration: none; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"&gt;http://www.mec.ca/product/5038-716/lifeproof-nuud-ipad-air-case/?f=10+50007+50023&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>a9d3a02d-2013-492b-83b0-949b090177a1</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="lifeproof-nuud-ipad-air-case">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>d8d2d9de-7bde-4dfd-bc16-4a6b47a92ae6</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Get full protection for your phone in any wet, dirty or damp setting.The nuud case armours your iPad Air without putting anything between your fingertips and the touchscreen. An optical glass lens lets you see and use the screen with crystal clarity.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>129.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>Lifeproof nüüd IPad Air Case</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/lifeproof-nuud-ipad-air-case/lifeproof-nuud-ipad-air-case[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:36:19.200-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:37:09.491-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:37:11.212-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>8bbe4072-2e0b-4f26-ace4-dee00716f986</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;ul&gt;
+ &lt;li&gt;Waterproof, fully submersible to 2 metres for up to 1 hour.&lt;/li&gt;
+ &lt;li&gt;Shockproof, survives drops from 2 metres.&lt;/li&gt;
+ &lt;li&gt;Full access to touchscreen and all buttons, ports and controls.&lt;/li&gt;
+ &lt;li&gt;Maximum sound output and clarity.&lt;/li&gt;
+ &lt;li&gt;Anti-reflective optical-glass camera lens.&lt;/li&gt;
+ &lt;li&gt;Dimensions are 261.6 x 188 x 17.8mm.&lt;/li&gt;
+ &lt;li&gt;The LifeProof warranty and MEC&amp;apos;s Rocksolid Guarantee cover this case itself. Neither guarantee covers the contents you put inside the case.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="text-align:start"&gt;© Mountain Equipment Co-operative&lt;br /&gt;
+&lt;a href="http://www.mec.ca/product/5038-716/lifeproof-nuud-ipad-air-case/?f=10+50007+50023" style="box-sizing: border-box; color: rgb(75, 75, 75); text-decoration: none; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"&gt;http://www.mec.ca/product/5038-716/lifeproof-nuud-ipad-air-case/?f=10+50007+50023&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>a9d3a02d-2013-492b-83b0-949b090177a1</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="mec-lodge-4-4-tent">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>mix:referenceable</sv:value>
+      <sv:value>hippo:translated</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>ef2c0951-1153-496d-bb4d-65e02e5c0416</sv:value>
+    </sv:property>
+    <sv:node sv:name="mec-lodge-4-4-tent">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>2ce196f3-7603-4285-827a-6b936ca277f7</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Glamping, anyone? This large tent has 2 bedrooms that each sleep 2 people. Both rooms are accessed from a central hall that’s tall enough to stand up in. The hall doesn't have a floor, so you can use it to deal with wet gear without getting your sleeping bags wet or gritty. Store your bikes in it, dry your wetsuit, or use it as a sheltered dining area. An optional ground sheet converts the hall to a bedroom that sleeps up to 4 additional campers.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>589.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>MEC Lodge 4+4 Tent</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/mec-lodge-4-4-tent/mec-lodge-4-4-tent[3]</sv:value>
+        <sv:value>products/mec-lodge-4-4-tent/mec-lodge-4-4-tent[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:37:21.641-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:37:21.722-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>4cb95186-da7e-4912-b7bc-e18a03bc5fd1</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;ul&gt;
+ &lt;li&gt;Central hall has doors with zippable mesh ventilation at either end.&lt;/li&gt;
+ &lt;li&gt;Hall has numerous hanging points for drying lines or lanterns.&lt;/li&gt;
+ &lt;li&gt;Each 2-person room has double pockets.&lt;/li&gt;
+ &lt;li&gt;Hall has 4 storage pockets.&lt;/li&gt;
+ &lt;li&gt;Optional floor for central hall available separately.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="text-align:start"&gt;© Mountain Equipment Co-operative&lt;br /&gt;
+&lt;a href="http://www.mec.ca/product/5032-207/mec-lodge-44-tent/?h=10+50055+50130&amp;amp;f=10+50130+50858" style="box-sizing: border-box; color: rgb(75, 75, 75); text-decoration: none; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"&gt;http://www.mec.ca/product/5032-207/mec-lodge-44-tent/?h=10+50055+50130&amp;amp;f=10+50130+50858&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>98daf304-f948-4d0c-94fe-1009459e775a</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="hippo:translation">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:translation</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:language" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="hippo:message" sv:type="String">
+        <sv:value>MEC Lodge 4+4 Tent</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="mec-lodge-4-4-tent">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>97706b1f-bec4-4d72-9375-d09c85b0689b</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Glamping, anyone? This large tent has 2 bedrooms that each sleep 2 people. Both rooms are accessed from a central hall that’s tall enough to stand up in. The hall doesn't have a floor, so you can use it to deal with wet gear without getting your sleeping bags wet or gritty. Store your bikes in it, dry your wetsuit, or use it as a sheltered dining area. An optional ground sheet converts the hall to a bedroom that sleeps up to 4 additional campers.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>589.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>MEC Lodge 4+4 Tent</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/mec-lodge-4-4-tent/mec-lodge-4-4-tent[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:37:21.641-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:37:50.947-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>4cb95186-da7e-4912-b7bc-e18a03bc5fd1</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;ul&gt;
+ &lt;li&gt;Central hall has doors with zippable mesh ventilation at either end.&lt;/li&gt;
+ &lt;li&gt;Hall has numerous hanging points for drying lines or lanterns.&lt;/li&gt;
+ &lt;li&gt;Each 2-person room has double pockets.&lt;/li&gt;
+ &lt;li&gt;Hall has 4 storage pockets.&lt;/li&gt;
+ &lt;li&gt;Optional floor for central hall available separately.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="text-align:start"&gt;© Mountain Equipment Co-operative&lt;br /&gt;
+&lt;a href="http://www.mec.ca/product/5032-207/mec-lodge-44-tent/?h=10+50055+50130&amp;amp;f=10+50130+50858" style="box-sizing: border-box; color: rgb(75, 75, 75); text-decoration: none; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"&gt;http://www.mec.ca/product/5032-207/mec-lodge-44-tent/?h=10+50055+50130&amp;amp;f=10+50130+50858&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>98daf304-f948-4d0c-94fe-1009459e775a</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="mec-lodge-4-4-tent">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>gogreen:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>4745f111-ff3b-4675-a09f-f2197ec7e567</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:introduction" sv:type="String">
+        <sv:value>Glamping, anyone? This large tent has 2 bedrooms that each sleep 2 people. Both rooms are accessed from a central hall that’s tall enough to stand up in. The hall doesn't have a floor, so you can use it to deal with wet gear without getting your sleeping bags wet or gritty. Store your bikes in it, dry your wetsuit, or use it as a sheltered dining area. An optional ground sheet converts the hall to a bedroom that sleeps up to 4 additional campers.</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:price" sv:type="Double">
+        <sv:value>589.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="gogreen:title" sv:type="String">
+        <sv:value>MEC Lodge 4+4 Tent</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>products/mec-lodge-4-4-tent/mec-lodge-4-4-tent[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:37:21.641-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:37:50.947-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2015-10-22T15:37:52.326-07:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>4cb95186-da7e-4912-b7bc-e18a03bc5fd1</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:node sv:name="gogreen:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;ul&gt;
+ &lt;li&gt;Central hall has doors with zippable mesh ventilation at either end.&lt;/li&gt;
+ &lt;li&gt;Hall has numerous hanging points for drying lines or lanterns.&lt;/li&gt;
+ &lt;li&gt;Each 2-person room has double pockets.&lt;/li&gt;
+ &lt;li&gt;Hall has 4 storage pockets.&lt;/li&gt;
+ &lt;li&gt;Optional floor for central hall available separately.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="text-align:start"&gt;© Mountain Equipment Co-operative&lt;br /&gt;
+&lt;a href="http://www.mec.ca/product/5032-207/mec-lodge-44-tent/?h=10+50055+50130&amp;amp;f=10+50130+50858" style="box-sizing: border-box; color: rgb(75, 75, 75); text-decoration: none; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"&gt;http://www.mec.ca/product/5032-207/mec-lodge-44-tent/?h=10+50055+50130&amp;amp;f=10+50130+50858&lt;/a&gt;&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="gogreen:images">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>98daf304-f948-4d0c-94fe-1009459e775a</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+</sv:node>
