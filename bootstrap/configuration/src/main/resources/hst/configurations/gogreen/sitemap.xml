@@ -13,7 +13,7 @@
       <sv:value>hst:sitemapitem</sv:value>
     </sv:property>
     <sv:property sv:name="hst:componentconfigurationid" sv:type="String">
-      <sv:value>hst:pages/homepage</sv:value>
+      <sv:value>hst:pages/home</sv:value>
     </sv:property>
   </sv:node>
   <sv:node sv:name="_any_">
